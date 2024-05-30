@@ -463,7 +463,7 @@ body {
 }
 .sc-news .group-issue .issue-area .news-all::after {
   content: "";
-  background-image: url(/assets/images/sp-bg.png);
+  background-image: url(../../images/sp-bg.png);
   background-size: 433px 412px;
   background-position: -154px -201px;
   background-repeat: no-repeat;
