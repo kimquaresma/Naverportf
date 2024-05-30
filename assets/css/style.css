@@ -463,7 +463,7 @@ body {
 }
 .sc-news .group-issue .issue-area .news-all::after {
   content: "";
-  background-image: url(../../images/sp-bg.png);
+  background-image: url(../images/sp-bg.png);
   background-size: 433px 412px;
   background-position: -154px -201px;
   background-repeat: no-repeat;
@@ -621,7 +621,7 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url(../../images/sp-bg.png);
+  background-image: url(../images/sp-bg.png);
   background-size: 433px 412px;
   background-position: -179px -400px;
   background-repeat: no-repeat;
@@ -650,7 +650,7 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url(../../images/sp-bg.png);
+  background-image: url(../images/sp-bg.png);
   background-size: 433px 412px;
   background-position: -179px -400px;
   background-repeat: no-repeat;
@@ -692,7 +692,7 @@ body {
 .sc-news .group-control .set-area .btn-list::before {
   display: block;
   content: "";
-  background-image: url(../../images/sp-bg.png);
+  background-image: url(../images/sp-bg.png);
   background-size: 433px 412px;
   background-position: -118px -69px;
   background-repeat: no-repeat;
@@ -706,7 +706,7 @@ body {
 .sc-news .group-control .set-area .btn-thumb::before {
   display: block;
   content: "";
-  background-image: url(../../images/sp-bg.png);
+  background-image: url(../images/sp-bg.png);
   background-size: 433px 412px;
   background-position: -388px -189px;
   background-repeat: no-repeat;
@@ -1000,7 +1000,7 @@ body {
   position: absolute;
   top: 50%;
   left: 50%;
-  background-image: url(../../images/sp-bg3.png);
+  background-image: url(../images/sp-bg3.png);
   background-position: -34px 0;
   width: 32px;
   height: 32px;
@@ -1027,7 +1027,7 @@ body {
   position: absolute;
   top: 50%;
   left: 50%;
-  background-image: url(../../images/sp-bg3.png);
+  background-image: url(../images/sp-bg3.png);
   background-position: -68px -34px;
   width: 32px;
   height: 32px;
@@ -1054,7 +1054,7 @@ body {
   position: absolute;
   top: 50%;
   left: 50%;
-  background-image: url(../../images/sp-bg3.png);
+  background-image: url(../images/sp-bg3.png);
   background-position: -34px -34px;
   width: 32px;
   height: 32px;
@@ -1081,7 +1081,7 @@ body {
   position: absolute;
   top: 50%;
   left: 50%;
-  background-image: url(../../images/sp-bg3.png);
+  background-image: url(../images/sp-bg3.png);
   background-position: -19px -121px;
   width: 17px;
   height: 16px;
@@ -1120,7 +1120,7 @@ body {
   cursor: pointer;
 }
 .sc-shopping .group-control .btn-prev:before {
-  background-image: url(../../images/sp-bg3.png);
+  background-image: url(../images/sp-bg3.png);
   background-size: 158px 137px;
   background-repeat: no-repeat;
   width: 10px;
@@ -1151,7 +1151,7 @@ body {
   cursor: pointer;
 }
 .sc-shopping .group-control .btn-next:before {
-  background-image: url(../../images/sp-bg3.png);
+  background-image: url(../images/sp-bg3.png);
   background-size: 158px 137px;
   background-position: -68px -121px;
   background-repeat: no-repeat;
@@ -1387,7 +1387,7 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url(../../images/sp-bg3.png);
+  background-image: url(../images/sp-bg3.png);
   background-size: 434px 416px;
   background-position: -201px -404px;
   background-repeat: no-repeat;
@@ -1548,7 +1548,7 @@ body {
 .sc-weather .weather-header .header-left .btn:before {
   content: "";
   display: inline-block;
-  background-image: url(../../images/sp-bg.png);
+  background-image: url(../images/sp-bg.png);
   background-size: 434px 416px;
   background-position: -144px -404px;
   background-repeat: no-repeat;
@@ -1574,7 +1574,7 @@ body {
 .sc-weather .weather-content .left .top .weather-image::before {
   content: "";
   display: block;
-  background-image: url(../../images/sp-bg2.png);
+  background-image: url(../images/sp-bg2.png);
   background-size: 641px 587px;
   background-position: -87px 0px;
   background-repeat: no-repeat;
@@ -1691,7 +1691,7 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url(../../images/sp-bg.png);
+  background-image: url(../images/sp-bg.png);
   background-size: 434px 416px;
   background-position: -410px -58px;
   background-repeat: no-repeat;
@@ -1727,7 +1727,7 @@ body {
 .sc-stock .stock-header .right .right-text .btn-refresh::after {
   content: "";
   display: block;
-  background-image: url(../../images/sp-bg.png);
+  background-image: url(../images/sp-bg.png);
   background-size: 434px 416px;
   background-position: -99px -361px;
   background-repeat: no-repeat;
@@ -1775,7 +1775,7 @@ body {
   display: flex;
 }
 .sc-stock .stock-content .right .stock-list li a .stock-price .stock-icon {
-  background-image: url(../../images/sp-bg.png);
+  background-image: url(../images/sp-bg.png);
   background-size: 451px 441px;
   background-position: -171px -215px;
   background-repeat: no-repeat;
@@ -1931,7 +1931,7 @@ body {
   position: absolute;
   top: 54px;
   left: 54px;
-  background-image: url(../../images/sp-bg.png);
+  background-image: url(../images/sp-bg.png);
   background-size: 434px 416px;
   background-position: 0px 0px;
   background-repeat: no-repeat;
@@ -1961,7 +1961,7 @@ body {
 .sc-widget .widget-inner .widget-content .content-list .papago a .bot i::before {
   content: "";
   position: absolute;
-  background-image: url(../../images/sp-bg.png);
+  background-image: url(../images/sp-bg.png);
   background-size: 434px 416px;
   background-position: -164px -183px;
   background-repeat: no-repeat;
@@ -2091,7 +2091,7 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url(../../images/sp-bg.png);
+  background-image: url(../images/sp-bg.png);
   background-size: 434px 416px;
   background-position: -364px -75px;
   background-repeat: no-repeat;
@@ -2112,7 +2112,7 @@ body {
   padding: 15px 18px 0;
 }
 .sc-widget .widget-inner .widget-content .vibe-content .top i {
-  background-image: url(../../images/sp-bg.png);
+  background-image: url(../images/sp-bg.png);
   background-size: 433px 412px;
   background-position: -69px -254px;
   background-repeat: no-repeat;
@@ -2168,7 +2168,7 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url(../../images/sp-bg.png);
+  background-image: url(../images/sp-bg.png);
   background-size: 434px 416px;
   background-position: -425px -131px;
   background-repeat: no-repeat;
@@ -2204,7 +2204,7 @@ body {
 .sc-widget .widget-inner .link-more .more-text:before {
   content: "";
   display: inline-block;
-  background-image: url(../../images/sp-bg.png);
+  background-image: url(../images/sp-bg.png);
   background-size: 434px 416px;
   background-position: -50px -360px;
   background-repeat: no-repeat;
@@ -2222,7 +2222,7 @@ body {
   position: absolute;
   top: 28px;
   right: 4px;
-  background-image: url(../../images/sp-bg.png);
+  background-image: url(../images/sp-bg.png);
   background-size: 434px 416px;
   background-position: -425px -63px;
   background-repeat: no-repeat;
