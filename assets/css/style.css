@@ -322,7 +322,7 @@ body {
   right: 0;
 }
 .header .group-nav [class*=ico-].ico-chigi::after {
-  background-image: url(../../images/ico-chigi.png);
+  background-image: url(/assets/images/ico-chigi.png);
   background-size: cover;
 }
 .header .util-area {
